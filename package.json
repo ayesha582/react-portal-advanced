@@ -1,0 +1,14 @@
+{
+  "name": "react-portal-advanced",
+  "version": "1.0.0",
+  "description": "package to make react portals with lots of customization options.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayesha Mundu",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.8.6"
+  }
+}
