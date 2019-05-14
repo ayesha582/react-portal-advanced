@@ -1,6 +1,10 @@
 import React from 'react';
 
 
-const TestComp = () => <div>test</div>;
+class TestComp extends React.Component {
+    render() {
+      return <h1>Hello</h1>;
+    }
+  }
 
 export {TestComp};

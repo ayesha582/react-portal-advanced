@@ -1,6 +1,6 @@
 {
   "name": "react-portal-advanced",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "package to make react portals with lots of customization options.",
   "main": "index.js",
   "scripts": {
